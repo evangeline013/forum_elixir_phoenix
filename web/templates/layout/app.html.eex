@@ -14,7 +14,7 @@
 
   <body>
     <nav class="light-pink">
-      <div class="nav-wrapper" container>
+      <div class="nav-wrapper container">
         <a href="/" class="brand-logo">
           Forum
         </a>
